@@ -1,6 +1,6 @@
 # NLP_Transformer
 
-This is a Transformer based implementation of a German-English translator.
+This is a Transformer based implementation of the German-English translator in pyTorch.
 
 This script was developed using the implementation in https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec. Hence, big credit goes to Samuel Lynn-Evans.
 
