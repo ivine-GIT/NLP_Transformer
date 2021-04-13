@@ -11,3 +11,5 @@ The repository contains mainly two scripts:
 2) De_En_translate.py : Transformer implementation of the translate function
 
 The dataset used to train the network is from the "European Parliament Proceedings Parallel Corpus" available at http://www.statmt.org/europarl/
+
+In the folder ./data/de-en/, there are two short files consisting of 24 senteces in German and its translation in English. For the larger corpus, visit the Europarl link above.
